@@ -1,4 +1,4 @@
-## Hi there 👋
+Looking to learn: Go, Rust, Elixir, Kubernetes, and [Gardening](https://x.com/__paleologo/status/1795597815009476872).
 
 <!--
 **alvinjz2/alvinjz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
